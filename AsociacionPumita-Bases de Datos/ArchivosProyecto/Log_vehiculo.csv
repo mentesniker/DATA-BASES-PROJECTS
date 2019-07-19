@@ -1,0 +1,151 @@
+id_log_vehiculo,num_economico,razon,fecha_baja
+1,1451,Ingresos insuficientes,2015-04-22
+2,8869,Ingresos insuficientes,2011-01-16
+3,2000,Ingresos insuficientes,2015-06-04
+4,6213,Ingresos insuficientes,2012-05-09
+5,2289,Ingresos insuficientes,2006-08-22
+6,1606,Ingresos insuficientes,2008-05-15
+7,3532,Falta de tiempo,2010-11-09
+8,6899,Ingresos insuficientes,2015-04-08
+9,9895,Ingresos insuficientes,2012-11-22
+10,9544,Ingresos insuficientes,2008-12-26
+11,5461,Ingresos insuficientes,2012-06-16
+12,5214,Ingresos insuficientes,2010-03-01
+13,9819,Venta de vehiculo,2016-04-14
+14,9360,Ingresos insuficientes,2011-06-22
+15,8084,Falta de tiempo,2011-12-10
+16,4532,Ingresos insuficientes,2012-12-16
+17,7328,Falta de tiempo,2012-05-01
+18,1700,Ingresos insuficientes,2010-06-03
+19,1289,Ingresos insuficientes,2017-02-07
+20,4591,Ingresos insuficientes,2011-08-10
+21,9889,Ingresos insuficientes,2008-10-21
+22,1176,Falta de tiempo,2018-05-23
+23,6851,Falta de tiempo,2008-03-19
+24,9858,Enfermedad del chofer,2012-11-12
+25,1862,Ingresos insuficientes,2008-05-24
+26,1679,Ingresos insuficientes,2009-10-18
+27,5294,Falta de tiempo,2017-06-20
+28,9100,Falta de tiempo,2015-03-22
+29,6930,Venta de vehiculo,2006-05-10
+30,2568,Falta de tiempo,2006-01-26
+31,6578,Venta de vehiculo,2007-10-05
+32,8699,Falta de clientes,2013-08-18
+33,7329,Ingresos insuficientes,2018-01-16
+34,7102,Venta de vehiculo,2006-12-27
+35,8917,Venta de vehiculo,2012-06-13
+36,8141,Venta de vehiculo,2007-04-02
+37,7503,Falta de tiempo,2008-12-07
+38,3862,Ingresos insuficientes,2018-06-10
+39,1263,Venta de vehiculo,2009-11-30
+40,7569,Ingresos insuficientes,2009-03-07
+41,9279,Falta de tiempo,2012-12-15
+42,3619,Falta de tiempo,2010-09-07
+43,5860,Falta de clientes,2013-03-13
+44,2540,Ingresos insuficientes,2017-12-01
+45,6391,Ingresos insuficientes,2006-07-18
+46,5950,Falta de tiempo,2012-11-03
+47,1531,Ingresos insuficientes,2014-08-27
+48,7069,Venta de vehiculo,2010-11-02
+49,6010,Ingresos insuficientes,2007-02-08
+50,9860,Ingresos insuficientes,2007-12-04
+51,3761,Falta de tiempo,2015-12-11
+52,8900,Falta de clientes,2012-07-13
+53,5919,Ingresos insuficientes,2016-03-13
+54,3524,Falta de tiempo,2015-09-09
+55,5808,Falta de tiempo,2007-04-23
+56,2338,Ingresos insuficientes,2014-09-16
+57,7544,Ingresos insuficientes,2017-02-19
+58,2578,Venta de vehiculo,2011-03-11
+59,5575,Falta de tiempo,2016-06-16
+60,2910,Ingresos insuficientes,2012-09-21
+61,3346,Ingresos insuficientes,2007-02-12
+62,2220,Ingresos insuficientes,2015-01-01
+63,3401,Ingresos insuficientes,2006-08-31
+64,8411,Falta de clientes,2016-07-12
+65,1932,Ingresos insuficientes,2011-05-01
+66,3104,Ingresos insuficientes,2013-09-25
+67,4272,Falta de clientes,2006-01-07
+68,8865,Falta de tiempo,2016-04-23
+69,6413,Falta de tiempo,2006-12-19
+70,3621,Ingresos insuficientes,2006-08-25
+71,9953,Venta de vehiculo,2008-12-20
+72,1178,Falta de tiempo,2011-03-18
+73,1458,Ingresos insuficientes,2018-05-10
+74,8223,Falta de tiempo,2009-11-22
+75,4277,Falta de tiempo,2018-04-30
+76,8726,Falta de tiempo,2014-04-02
+77,7719,Ingresos insuficientes,2008-04-01
+78,1981,Falta de clientes,2007-08-04
+79,8819,Falta de tiempo,2011-03-13
+80,1046,Falta de clientes,2012-06-19
+81,3923,Falta de tiempo,2006-10-19
+82,8056,Falta de clientes,2015-11-20
+83,8364,Ingresos insuficientes,2008-08-03
+84,3383,Ingresos insuficientes,2006-10-06
+85,4264,Ingresos insuficientes,2015-10-27
+86,2036,Venta de vehiculo,2017-03-23
+87,2458,Ingresos insuficientes,2014-10-29
+88,2863,Ingresos insuficientes,2010-06-28
+89,4083,Venta de vehiculo,2014-04-26
+90,1979,Falta de tiempo,2011-01-16
+91,9719,Falta de clientes,2011-08-01
+92,2478,Falta de tiempo,2010-11-03
+93,4482,Falta de tiempo,2009-09-24
+94,9125,Falta de tiempo,2014-06-14
+95,7739,Ingresos insuficientes,2010-02-26
+96,3680,Ingresos insuficientes,2007-01-02
+97,6335,Ingresos insuficientes,2006-07-04
+98,3660,Enfermedad del chofer,2013-09-27
+99,6296,Ingresos insuficientes,2008-03-17
+100,8562,Falta de tiempo,2009-08-10
+101,1688,Ingresos insuficientes,2008-05-31
+102,7363,Enfermedad del chofer,2017-05-11
+103,9565,Venta de vehiculo,2008-03-22
+104,9391,Ingresos insuficientes,2013-08-27
+105,6831,Ingresos insuficientes,2018-03-04
+106,5051,Ingresos insuficientes,2009-12-29
+107,9254,Falta de tiempo,2012-03-04
+108,1218,Falta de tiempo,2013-10-17
+109,9880,Ingresos insuficientes,2016-08-12
+110,5738,Ingresos insuficientes,2009-08-26
+111,4674,Falta de tiempo,2017-08-02
+112,8105,Ingresos insuficientes,2014-04-02
+113,4340,Ingresos insuficientes,2007-06-22
+114,7685,Falta de tiempo,2017-03-17
+115,6102,Venta de vehiculo,2016-10-27
+116,1812,Falta de tiempo,2006-10-02
+117,8557,Falta de tiempo,2018-02-25
+118,8078,Ingresos insuficientes,2011-04-12
+119,9709,Ingresos insuficientes,2015-04-15
+120,5046,Ingresos insuficientes,2014-08-19
+121,9312,Falta de tiempo,2011-02-08
+122,4215,Falta de tiempo,2008-01-03
+123,1840,Falta de tiempo,2016-05-22
+124,6024,Ingresos insuficientes,2010-10-20
+125,2225,Ingresos insuficientes,2014-03-27
+126,9627,Falta de tiempo,2011-05-19
+127,3909,Ingresos insuficientes,2008-12-24
+128,6924,Falta de tiempo,2009-04-11
+129,3994,Venta de vehiculo,2006-09-24
+130,4843,Falta de tiempo,2008-01-01
+131,6177,Ingresos insuficientes,2017-02-16
+132,9409,Ingresos insuficientes,2017-04-09
+133,8419,Ingresos insuficientes,2018-03-26
+134,6874,Falta de tiempo,2013-02-23
+135,8780,Falta de tiempo,2011-02-26
+136,8992,Venta de vehiculo,2014-04-01
+137,2539,Ingresos insuficientes,2010-12-07
+138,1055,Ingresos insuficientes,2007-06-05
+139,1583,Ingresos insuficientes,2007-09-21
+140,3826,Falta de tiempo,2012-07-07
+141,5188,Ingresos insuficientes,2016-05-03
+142,5396,Falta de tiempo,2010-07-19
+143,6091,Falta de tiempo,2008-06-11
+144,2340,Ingresos insuficientes,2014-07-01
+145,1322,Ingresos insuficientes,2010-08-20
+146,7185,Falta de clientes,2017-03-12
+147,9937,Falta de clientes,2009-05-04
+148,6200,Ingresos insuficientes,2010-07-08
+149,5453,Ingresos insuficientes,2010-12-10
+150,4819,Ingresos insuficientes,2015-06-12
